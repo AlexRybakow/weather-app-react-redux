@@ -29,3 +29,15 @@ html {
   background-size: cover;
 }
 
+.welcome {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.button {
+  margin-top: 20px;
+}
+

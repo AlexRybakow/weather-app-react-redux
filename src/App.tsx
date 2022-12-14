@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import { Routes, Route, Link } from 'react-router-dom';
 import { connect } from 'react-redux';
+import Button from '@mui/material/Button';
 import * as utils from './utils';
 import * as actions from './redux/actions';
 import Home from './components/Home/Home';
@@ -17,13 +18,15 @@ interface AppProps {
   state: any;
 }
 
-const NoMatch = () => {
+const Welcome = () => {
   return (
-    <div>
-      <h2>Nothing to see here!</h2>
-      <p>
-        <Link to="/">Go to the home page</Link>
-      </p>
+    <div className="welcome">
+      <h2>Weather App React Redux task</h2>
+      <div className="button">
+        <Link to="/">
+          <Button variant="contained" color="success">Home page</Button>
+        </Link>
+      </div>
     </div>
   );
 };
@@ -65,7 +68,7 @@ const App = ({
       <Routes>
         <Route index element={<Home />} />
         <Route path="/details" element={<WeatherDetails />} />
-        <Route path="*" element={<NoMatch />} />
+        <Route path="*" element={<Welcome />} />
       </Routes>
     </div>
   );

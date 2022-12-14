@@ -1,5 +1,5 @@
 const initStore = {
-  apiKey: 'e7c6ceae469832fe6c2596d88c42b4dc',
+  apiKey: process.env.REACT_APP_WEATHER_KEY,
   cities: [],
   citiesArray: [],
   loading: true,
