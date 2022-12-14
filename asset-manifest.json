@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/hw21-react-router/static/css/main.600877b5.css",
-    "main.js": "/hw21-react-router/static/js/main.f785afee.js",
-    "static/media/clouds.jpg": "/hw21-react-router/static/media/clouds.57f652df4396d58c3d03.jpg",
-    "static/media/08.svg": "/hw21-react-router/static/media/08.de54094e0d120c2bbda3978358babf72.svg",
-    "static/media/01.svg": "/hw21-react-router/static/media/01.4d4d29082a3cf4bfdef8aef925f4a0ab.svg",
-    "static/media/05.svg": "/hw21-react-router/static/media/05.421f106c1ed05eb98624c54cc6fe986b.svg",
-    "static/media/06.svg": "/hw21-react-router/static/media/06.0d23ed808a028256dc7b136d6439e370.svg",
-    "static/media/delete.svg": "/hw21-react-router/static/media/delete.cf439f421dde074106babfeda08e9952.svg",
-    "static/media/04.svg": "/hw21-react-router/static/media/04.898def8747bbbb473472ee597c264386.svg",
-    "static/media/09.svg": "/hw21-react-router/static/media/09.4abf5afc9036207e03c5f9d1bcd56b15.svg",
-    "static/media/07.svg": "/hw21-react-router/static/media/07.ae0fcd90b9e4bcc7f9b51965cb478761.svg",
-    "index.html": "/hw21-react-router/index.html",
-    "static/media/02.svg": "/hw21-react-router/static/media/02.1f5f853bb16d9887619a634b987e2ca4.svg",
-    "static/media/03.svg": "/hw21-react-router/static/media/03.1f5f853bb16d9887619a634b987e2ca4.svg",
-    "main.600877b5.css.map": "/hw21-react-router/static/css/main.600877b5.css.map",
-    "main.f785afee.js.map": "/hw21-react-router/static/js/main.f785afee.js.map"
+    "main.css": "/weather-app-react-redux/static/css/main.d1be0cf8.css",
+    "main.js": "/weather-app-react-redux/static/js/main.2977c820.js",
+    "static/media/clouds.jpg": "/weather-app-react-redux/static/media/clouds.57f652df4396d58c3d03.jpg",
+    "static/media/08.svg": "/weather-app-react-redux/static/media/08.de54094e0d120c2bbda3978358babf72.svg",
+    "static/media/01.svg": "/weather-app-react-redux/static/media/01.4d4d29082a3cf4bfdef8aef925f4a0ab.svg",
+    "static/media/05.svg": "/weather-app-react-redux/static/media/05.421f106c1ed05eb98624c54cc6fe986b.svg",
+    "static/media/06.svg": "/weather-app-react-redux/static/media/06.0d23ed808a028256dc7b136d6439e370.svg",
+    "static/media/delete.svg": "/weather-app-react-redux/static/media/delete.cf439f421dde074106babfeda08e9952.svg",
+    "static/media/04.svg": "/weather-app-react-redux/static/media/04.898def8747bbbb473472ee597c264386.svg",
+    "static/media/09.svg": "/weather-app-react-redux/static/media/09.4abf5afc9036207e03c5f9d1bcd56b15.svg",
+    "static/media/07.svg": "/weather-app-react-redux/static/media/07.ae0fcd90b9e4bcc7f9b51965cb478761.svg",
+    "index.html": "/weather-app-react-redux/index.html",
+    "static/media/02.svg": "/weather-app-react-redux/static/media/02.1f5f853bb16d9887619a634b987e2ca4.svg",
+    "static/media/03.svg": "/weather-app-react-redux/static/media/03.1f5f853bb16d9887619a634b987e2ca4.svg",
+    "main.d1be0cf8.css.map": "/weather-app-react-redux/static/css/main.d1be0cf8.css.map",
+    "main.2977c820.js.map": "/weather-app-react-redux/static/js/main.2977c820.js.map"
   },
   "entrypoints": [
-    "static/css/main.600877b5.css",
-    "static/js/main.f785afee.js"
+    "static/css/main.d1be0cf8.css",
+    "static/js/main.2977c820.js"
   ]
 }
